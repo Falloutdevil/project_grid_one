@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Gin_Sans_Light", sans-serif;
+    src: url(./../fonts/Gin_Sans_Light.otf) format("otf");
+  }
+
+  @font-face {
+    font-family: "Roboto_Black", sans-serif;
+    src: url(./../fonts/Roboto_Black.ttf) format("ttf");
+  }
+
+  @font-face {
+    font-family: "Roboto_Bold", sans-serif;
+    src: url(./../fonts/Roboto_Bold.ttf) format("ttf");
+  }
+
+  @font-face {
+    font-family: "Roboto_Light", sans-serif;
+    src: url(./../fonts/Roboto_Light.ttf) format("ttf");
+  }
+
+  @font-face {
+    font-family: "Roboto_Thin", sans-serif;
+    src: url(./../fonts/Roboto_Thin.ttf) format("ttf");
+  }
+
+  @font-face {
+    font-family: "RobotoCondensed_Light", sans-serif;
+    src: url(./../fonts/RobotoCondensed_Light.ttf) format("ttf");
+  }

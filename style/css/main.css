@@ -1,0 +1,47 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box
+}
+
+html {
+    font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.base-container {
+    display: grid;
+    grid-template-rows: 610px repeat(5, 370px);
+    grid-template-columns: 375px 1fr 375px;
+    background-color: ;
+}
+
+.number {
+    font-size: 20px;
+    color: red;
+}
+
+.number1 {
+    grid-area: 1/1/2/3;
+    background-color: #e9eae2;
+}
+
+.number2 {
+    display: flex;
+}
+
+.header__menu--sub-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat (4, 1fr);
+}
+
+.sub-item {
+    font-size: 1.6rem;
+    font-family: "Roboto_Black", sans-serif;
+}
+
+
